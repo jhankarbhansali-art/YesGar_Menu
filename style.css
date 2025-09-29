@@ -1,4 +1,4 @@
-/* Basic styling for the whole page */
+/* Basic Page Styling */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -44,7 +44,7 @@ nav a:hover {
     color: #ff5733;
 }
 
-/* Sections */
+/* Sections Styling */
 section {
     padding: 30px;
     text-align: center;
@@ -57,7 +57,7 @@ section h2 {
     margin-bottom: 10px;
 }
 
-/* Menu List */
+/* Menu Items */
 #menu ul {
     list-style: none;
     padding: 0;
@@ -72,7 +72,7 @@ section h2 {
     font-size: 1.1rem;
 }
 
-/* Footer */
+/* Footer Styling */
 footer {
     text-align: center;
     background: #333;
