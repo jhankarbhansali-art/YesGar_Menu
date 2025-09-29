@@ -1,0 +1,9 @@
+[
+  {"name":"Pizza","price":300},
+  {"name":"Pasta","price":250},
+  {"name":"Burger","price":150},
+  {"name":"Sandwich","price":120},
+  {"name":"French Fries","price":100},
+  {"name":"Momos","price":130},
+  {"name":"Rolls","price":90}
+]
